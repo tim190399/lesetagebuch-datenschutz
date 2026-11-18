@@ -1,6 +1,6 @@
 # Datenschutzerklärung – Dein Lesetagebuch
 
-Stand: 13. November 2026
+Stand: 16. November 2026
 
 ## Kurz gesagt
 
@@ -20,7 +20,7 @@ Nur wenn du ihn unter Einstellungen › iCloud einschaltest, gleicht die App dei
 
 ## Buchsuche, Cover und Klappentexte
 
-Suchst du ein Buch, scannst du einen Barcode oder lädt die App Cover und Klappentexte nach, sendet sie den Suchbegriff, die ISBN oder den Titel an die Deutsche Nationalbibliothek (Frankfurt am Main), Google Books (Google LLC, USA) und Open Library (Internet Archive, USA). Dabei wird technisch bedingt deine IP-Adresse übertragen. Deine Bibliothek, Notizen oder Bewertungen werden nicht gesendet. Rechtsgrundlage ist Art. 6 Abs. 1 lit. b DSGVO. Die Adresse eines automatisch gefundenen Covers speichert die App beim Buch bzw. Merklisteneintrag, sie steht damit auch in Sicherungen und, wenn eingeschaltet, im iCloud-Abgleich. Das automatische Nachladen von Klappentexten kannst du unter Einstellungen › Darstellung abschalten.
+Suchst du ein Buch, scannst du einen Barcode oder lädt die App Cover, Klappentexte und fehlende Angaben wie ISBN, Genre oder Reihe nach, sendet sie den Suchbegriff, die ISBN oder den Titel an die Deutsche Nationalbibliothek (Frankfurt am Main), Google Books (Google LLC, USA) und Open Library (Internet Archive, USA). Dabei wird technisch bedingt deine IP-Adresse übertragen. Deine Bibliothek, Notizen oder Bewertungen werden nicht gesendet. Rechtsgrundlage ist Art. 6 Abs. 1 lit. b DSGVO. Die Adresse eines automatisch gefundenen Covers speichert die App beim Buch bzw. Merklisteneintrag, sie steht damit auch in Sicherungen und, wenn eingeschaltet, im iCloud-Abgleich. Das automatische Nachladen von Klappentexten und Angaben kannst du unter Einstellungen › Darstellung abschalten.
 
 ## Lesebegleiter mit Claude oder Gemini
 
